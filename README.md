@@ -10,6 +10,7 @@ The app supports 5 languages through localization for better accessibility.
 
 ### Tech Stack
 - Flutter (Frontend)
+- Next.js (Backend)
 
 ---
 
