@@ -15,7 +15,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   get: ^4.7.2
-  geolocator: ^14.0.2
+  geolocator: ^13.0.2
   geocoding: ^4.0.0
 
 dev_dependencies:
