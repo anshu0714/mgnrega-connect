@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return GetMaterialApp(
       onGenerateTitle: (BuildContext context) =>
           AppLocalizations.of(context)!.title,
       debugShowCheckedModeBanner: false,
