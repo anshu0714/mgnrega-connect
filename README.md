@@ -1,4 +1,4 @@
-# MGNREGA District View
+# MGNREGA (Ongoing)
 
 A simple mobile app built with Flutter to display MGNREGA data for one or more districts.  
 The app supports 5 languages through localization for better accessibility.
